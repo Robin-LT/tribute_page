@@ -1,1 +1,43 @@
-/* Copy and paste your CSS from CodePen into here */
+main {
+    font-size: 20px;
+    margin: 25px 10px;
+    padding: 25px;
+  }
+  
+  body {
+      background-color: #8EB28C;
+      color: #ffffff;
+      font-family: Tahoma;
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+  }
+  
+  #img-caption {
+    width: 100%;
+    margin: auto;
+  }
+  
+  #tribute-info {
+    font-size: 25px;
+    background-color: #ffffff;
+    color: #8EB28C;
+    font-family: Tahoma;
+    margin: auto;
+  }
+  
+  #image_2 {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+  }
+  
+  #img-caption_2 {
+    width: 90%;
+    margin: auto;
+  }
